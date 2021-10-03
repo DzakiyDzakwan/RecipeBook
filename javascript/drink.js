@@ -3,7 +3,7 @@ let drinkCard = document.querySelector('#drink-item')
 let drinkItem = [
     [01, "food/cocktails.jpg","Coktail","No Drink No party","avatar/avatar2.png","John Doe","subpage/cocktail.html"],
     [02, "food/lemontea.jpg","Iced Lemon Tea","Lemon Tea with Ice","avatar/avatar5.png","Ava Max","subpage/lemontea.html"],
-    [03, "food/strawberyjuice.jpg","Strawbery Juice","Strawbery mixed with ice :)","avatar/avatar3.png","Gengis Khan","subpage/strawberry.html"],
+    [03, "food/strawberyjuice.jpg","Strawbery Juice","Strawbery mixed with ice :)","avatar/avatar3.png","Genghis Khan","subpage/strawberry.html"],
     [04, "food/maggojuice.jpg","Manggo Juice","Tasty Manggo Bro!!!","avatar/avatar1.png","Merri Weather","subpage/manggo.html"]
 ]
 
